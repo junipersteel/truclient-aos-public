@@ -3,7 +3,7 @@ Type=TruClientWeb
 DefaultCfg=default.cfg
 MajorVersion=2023
 MinorVersion=1
-ParameterFile=
+ParameterFile=truclient-aos-public.prm
 GlobalParameterFile=
 NewFunctionHeader=1
 LastActiveAction=Action
@@ -80,7 +80,7 @@ Action_ContactUs=1
 Lib-View=1
 vuser_end=1
 [TransactionsOrder]
-Order="trx_Speakers__*delimiter*__trx_Tablets__*delimiter*__trx_ContactUs"
+Order="trx_Speakers__*delimiter*__trx_Speakers_Link__*delimiter*__trx_Speakers_Add_to_Cart__*delimiter*__trx_Tablets__*delimiter*__trx_ContactUs"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -88,5 +88,7 @@ LastReplayedRunName=
 ActiveRunName=
 [Transactions]
 trx_Speakers=
+trx_Speakers_Link=
+trx_Speakers_Add_to_Cart=
 trx_Tablets=
 trx_ContactUs=
