@@ -4,7 +4,8 @@
 
 Action()
 {
-	truclient_step("1", "Navigate to 'https://advantageonlineshopping.com/#/'", "snapshot=Action_1.inf");
+	truclient_step("1", "Evaluate JavaScript code function isSiteOnline(ur...le.')  } })", "snapshot=Action_1.inf");
+	truclient_step("2", "Navigate to 'https://advantageonlineshopping.com/#/'", "snapshot=Action_2.inf");
 
 	return 0;
 }

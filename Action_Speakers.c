@@ -21,6 +21,7 @@ Action_Speakers()
 	lr_start_transaction("trx_Speakers_Add_to_Cart");
 	truclient_step("12", "Click on ADD TO CART button", "snapshot=Action_Speakers_12.inf");
 	lr_end_transaction("trx_Speakers_Add_to_Cart",0);
+	truclient_step("13", "Move mouse over gridcell (1) gridcell", "snapshot=Action_Speakers_13.inf");
 	truclient_step("14", "Click on SPEAKERS link", "snapshot=Action_Speakers_14.inf");
 	truclient_step("15", "Click on dvantage link", "snapshot=Action_Speakers_15.inf");
 	lr_end_transaction("trx_Speakers",0);

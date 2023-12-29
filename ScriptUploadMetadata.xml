@@ -25,9 +25,12 @@
     <FileEntry Name="TruClientScriptMetadata.xml" Filter="2" />
     <FileEntry Name="TC.xsl" Filter="2" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="2" />
+    <FileEntry Name="package-lock.json" Filter="2" />
+    <FileEntry Name="package.json" Filter="2" />
     <FileEntry Name="TCIEAuthenticationFilters.ini" Filter="2" />
     <FileEntry Name="combined_truclient-aos-public.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="Libraries\" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="20559854440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
@@ -47,13 +50,13 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="shunra.shunra" Filter="1" />
-    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="truclient-aos-public.c.pickle" Filter="1" />
     <FileEntry Name="truclient-aos-public.ci" Filter="1" />
     <FileEntry Name="truclient-aos-public.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="Backup\" Filter="1" />
+    <FileEntry Name="node_modules\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
     <FileEntry Name="results\" Filter="1" />
     <FileEntry Name="resultSnap\" Filter="1" />
