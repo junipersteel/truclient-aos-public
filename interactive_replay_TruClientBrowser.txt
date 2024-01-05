@@ -1,0 +1,19 @@
+Virtual User Script started at : 2024-01-05 19:23:02
+TruClient Replay (build 0148) for LoadRunner Professional 2023.1.0, build 0251. OS: Windows 2019, Browser: TruClient Browser 110.0.0.0, initialized on 2024/01/05 at 19:23:02 (1704482582.022s)
+Running Vuser...
+Starting iteration 1.
+t=00001424ms: Step 1: Evaluate JavaScript code function isSiteOnline(ur...le.")     } })   started    [MsgId: MMSG-205180]
+t=00001439ms: Warning -205179: The TC.outputMessage API is deprecated because it is synchronous. Use the asynchronous API TCA.outputMessage instead. For details, see https://admhelp.microfocus.com/vugen/en/2023.1.0/Content/TruClient/procedures/Async_API_Example.htm.    [MsgId: MWAR-205179]
+t=00001440ms: Call...    [MsgId: MMSG1]
+t=00001630ms: Site is available.    [MsgId: MMSG1]
+t=00001646ms: Step 1: Evaluate JavaScript code function isSiteOnline(ur...le.")     } })   successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00002152ms: Step 2: Navigate to "https://advantageonlineshopping.com/#/" started    [MsgId: MMSG-205180]
+t=00003004ms: Step 2: Navigate to https://advantageonlineshopping.com/#/ successfully completed with End Event "Document Loaded"    [MsgId: MMSG-205180]
+Notify: Transaction "trx_Speakers" started.
+t=00003694ms: Step 1: Click on SPEAKERS Shop Now  started    [MsgId: MMSG-205180]
+t=00007431ms: Step 1: Click on SPEAKERS Shop Now  successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00007951ms: Step 2: Click on image (1) image started    [MsgId: MMSG-205180]
+Notify: Transaction "trx_Speakers" ended with a "Stop" status (Duration: 4.9471).
+Ending Vuser...
+t=00008665ms: Step 2: Click on image (1) image was stopped    [MsgId: MMSG-205180]
+Vuser Terminated.

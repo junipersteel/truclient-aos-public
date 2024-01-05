@@ -7,9 +7,3 @@ Pass1=Action_Speakers_1
 [Action_Speakers_2]
 PassCount=1
 Pass1=Action_Speakers_2
-[Action_Speakers_3]
-PassCount=1
-Pass1=Action_Speakers_3
-[Action_Speakers_4]
-PassCount=1
-Pass1=Action_Speakers_4

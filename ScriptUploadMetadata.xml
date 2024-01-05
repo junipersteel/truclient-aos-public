@@ -28,9 +28,11 @@
     <FileEntry Name="package-lock.json" Filter="2" />
     <FileEntry Name="package.json" Filter="2" />
     <FileEntry Name="TCIEAuthenticationFilters.ini" Filter="2" />
+    <FileEntry Name="user_modified_perfs.json" Filter="2" />
     <FileEntry Name="combined_truclient-aos-public.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="Libraries\" Filter="2" />
+    <FileEntry Name="profiles\" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="20559854440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
@@ -39,6 +41,7 @@
     <FileEntry Name="default.cfg.bak" Filter="1" />
     <FileEntry Name="email.dat" Filter="1" />
     <FileEntry Name="interactive_replay_Chromium.txt" Filter="1" />
+    <FileEntry Name="interactive_replay_TruClientBrowser.txt" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />

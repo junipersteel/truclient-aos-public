@@ -82,7 +82,7 @@ vuser_end=1
 [TransactionsOrder]
 Order="trx_Speakers__*delimiter*__trx_Speakers_Link__*delimiter*__trx_Speakers_Add_to_Cart__*delimiter*__trx_Tablets__*delimiter*__trx_ContactUs"
 [StateManagement]
-LastReplayStatus=1
+LastReplayStatus=3
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=
